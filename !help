@@ -1,0 +1,3 @@
+prefix: c!
+c!start: starts the bot in the server its in
+c!gifts: respond to carrolers/guests with this command to recieve a gift from them 

@@ -12,5 +12,6 @@
     "discord-xp": "^1.1.7",
     "discord.js": "^12.4.1",
     "mongoose": "^5.11.8"
-  }
+  },
+"engines" : {"node" : ">=0.12"}
 }
